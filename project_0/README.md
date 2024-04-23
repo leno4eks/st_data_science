@@ -43,4 +43,4 @@
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению]((https://colab.research.google.com/drive/1Y7mfyFg2j7fPcdJzewa3iYYF2i_aaT08#scrollTo=giSKBUmgCAeh&line=2&uniqifier=1))
+:arrow_up:[к оглавлению](https://colab.research.google.com/drive/1Y7mfyFg2j7fPcdJzewa3iYYF2i_aaT08#scrollTo=giSKBUmgCAeh&line=2&uniqifier=1)

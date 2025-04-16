@@ -1,0 +1,14 @@
+DataCleaningProject
+    ├─data
+	    └─sber_data.csv
+    │
+    └─images
+         └─boxplot.png
+         └─data_cleaning.png
+         └─example_outliers.png
+	    └─method_sigm.png
+    │
+    └─outliers_lib
+         └─find_outliers.py
+         └─README.md
+    data_cleaning.ipynb
